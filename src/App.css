@@ -36,3 +36,183 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+.header__modal{
+  display: none;
+
+ 
+}
+.header__modal2{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background-color: #FD695A;
+  color: aqua;
+  top: 150px;
+  left: 1150px;
+  border-radius: 25px;
+  text-align: center;
+  padding: 25px;
+}
+
+
+
+.Heamodal{
+  display: block;
+  color: #61dafb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+  width: 1203px;
+  padding: 0px 20px;
+  margin: auto;
+}
+
+.header .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Header__list{
+  list-style: none;
+  display: flex;
+  gap: 57px;
+  
+}
+
+.alar{
+  text-decoration: none;
+  font-family: "Manrope";
+  color: #150A29;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+transition: all 1s ease-in-out;
+
+}
+.alar:hover{
+  color: #FD695A;
+}
+
+.header__btn{
+  width: 137px;
+height: 50px;
+top: 39px;
+left: 1181px;
+border-radius: 50px;
+background: #FD695A;
+font-family: "Mulish";
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+border: none;
+color: #FFFFFF;
+transition: all 0.5s ease-in-out;
+cursor: pointer;
+
+}
+.header__btn:hover{
+  background-color: #FFFFFF;
+  color: #FD695A;
+}
+
+
+/* .h1{
+  width: 580px;
+  font-family: "Mulish";
+font-size: 70px;
+font-weight: 800;
+line-height: 94px;
+letter-spacing: 2px;
+text-align: left;
+
+}
+.span__section{
+  padding: 10px;
+  color: #FD695A;
+  /* display: block; */
+  /* border: 2px solid #FD695A;
+  border-radius: 5px;
+}
+
+.section__text{
+  width: 464px;
+height: 68px;
+top: 450px;
+left: 135px;
+opacity: 0.75px;
+font-family: "Manrope";
+font-size: 21px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0px;
+text-align: left;
+color: #3D3D3F;
+
+}
+
+
+.start{
+  width: 162px;
+height: 59px;
+border-radius: 50px;
+background: #FD695A;
+width: 100px;
+height: 28px;
+top: 15px;
+left: 31px;
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+color: #FFFFFF;
+
+
+
+
+
+}
+.watch{
+ 
+width: 183.07px;
+height: 48px;
+margin-left: 50px;
+
+
+
+}  */

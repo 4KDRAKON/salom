@@ -1,0 +1,132 @@
+.section{
+  margin-top: 150px;
+}
+.section .container{
+  display: grid;
+  grid-template-columns: repeat(2,600px);
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+
+.h1{
+    width: 580px;
+    font-family: "Mulish";
+  font-size: 70px;
+  font-weight: 800;
+  line-height: 94px;
+  letter-spacing: 2px;
+  text-align: left;
+  
+  }
+  .span__section{
+    padding: 10px;
+    color: #FD695A;
+    /* display: block; */
+    border: 2px solid #FD695A;
+    border-radius: 5px;
+  }
+  
+  .section__text{
+    width: 464px;
+  height: 68px;
+  top: 450px;
+  left: 135px;
+  opacity: 0.75px;
+  font-family: "Manrope";
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #3D3D3F;
+  
+  }
+  
+  
+  .startt{
+    width: 162px;
+  height: 59px;
+  border-radius: 50px;
+  background: #FD695A;
+  font-family: "Mulish";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #FFFFFF;
+  border: none;
+  cursor:pointer
+  
+  
+  
+  
+  }
+  .watchh{
+    width: 183.07px;
+height: 48px;
+background-color: #FFFFFF;
+border: none;
+
+   margin-left: 25px;
+   font-family: "Mulish";
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #FD695A;
+cursor:pointer
+
+  
+  }
+
+
+
+.salomlarrr{
+  font-family:" Mulish";
+font-size: 18px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 350px;
+color: #3D3D3F;
+}
+
+
+
+  .listt{
+    margin-left: -600px;
+    margin-top: 150px;
+    display: flex;
+    list-style: none;
+    gap: 80px
+   
+  }
+
+  .start{
+    display: none;
+  }
+  .getstart{
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    padding: 15px;
+    text-align: center;
+  }
+
+  .watch{
+    display: none;
+  }
+
+  .watch2{
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    padding: 15px;
+    text-align: center;
+  }
